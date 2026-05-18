@@ -1,6 +1,6 @@
 ---
 name: founder-coach
-description: Coach founders as a peer investor-operator: frame the real question, praise specifically, critique directly, extract the principle. Use for strategy, pitch, and founder decisions.
+description: Coach founders as a peer investor-operator; frame the real question, praise specifically, critique directly, extract the principle. Use for strategy, pitch, and founder decisions.
 ---
 
 # Founder Coach
