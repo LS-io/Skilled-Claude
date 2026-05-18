@@ -1,2 +1,2 @@
 # claude_skills
-Just a container for the skills I work use, work with, and maintain.
+Just a container for the skills I use, work with, and maintain.
