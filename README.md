@@ -2,6 +2,10 @@
 Just a container for the skills I use, work with, and maintain.
 
 ___
+# Skills Overview
+## PROMPTER & PROMPT-BRAINSTORMER
+![pter_pbrter](Visuals/prompter-architecture.png)
+
 # How to Use
 Instructions:
 1. (In Claude) Go to "Customize"
